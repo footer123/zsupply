@@ -1,6 +1,6 @@
 # ZSupply
 
-demo: https://zsupplier.top
+demo(developing): https://zsupplier.top
 
 
 ZSupply is a supply chain management platform built on the Aleo privacy-focused blockchain. Designed to protect the privacy of all parties involved, ZSupply ensures that sensitive data remains secure throughout the procurement and supply chain processes. By leveraging zero-knowledge proofs, ZSupply integrates the roles of Purchasers, Suppliers, Quality Control (QC) departments, and the Finance Department of the Purchaser, offering a highly secure and privacy-preserving supply chain solution.
